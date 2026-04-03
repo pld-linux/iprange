@@ -1,7 +1,7 @@
 Summary:	iprange utility
 Name:		iprange
 Version:	1.0.4
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Networking/Utilities
 Source0:	https://github.com/firehol/iprange/releases/download/v1.0.4/%{name}-%{version}.tar.xz
